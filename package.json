@@ -1,0 +1,10 @@
+{
+  "name": "cobrodigital",
+  "version": "1.0.0",
+  "scripts": {
+    "start:both": "concurrently \"cd cobro-digital-front && npm start\" \"cd cobroDigitalBack && npm start\""
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.0"
+  }
+}
