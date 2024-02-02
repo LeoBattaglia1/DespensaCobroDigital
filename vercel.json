@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "./cobro-digital-front/src/index.js" }
+    { "source": "/(.*)", "destination": "/cobro-digital-front/src/index.js" }
   ]
 }
